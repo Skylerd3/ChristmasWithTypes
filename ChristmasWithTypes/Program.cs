@@ -4,6 +4,8 @@ namespace ChristmasWithTypes
 {
     class Program
     {
+     
+
         static void Main(string[] args)
         {
             var xmas = new Christmas();
